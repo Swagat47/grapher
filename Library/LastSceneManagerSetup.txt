@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/wire.unity
+- path: Assets/Editor/Grapher/Example/demo.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
